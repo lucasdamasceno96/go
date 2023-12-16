@@ -1,22 +1,21 @@
-# Study Repository for Go Algorithms
+# Repositório de Estudo de Algoritmos em Go
 
-Hello! This repository is dedicated to my study of algorithms using the Go programming language.
+Olá! Este repositório é dedicado ao meu estudo de algoritmos utilizando a linguagem de programação Go.
 
-## Purpose
+## Propósito
 
-The main purpose of this repository is to improve my understanding and proficiency in Go, particularly in the context of algorithmic challenges. I am using exercises from LeetCode and various other challenges to practice and hone my skills.
+O principal objetivo deste repositório é aprimorar minha compreensão e proficiência em Go, especialmente no contexto de desafios algorítmicos. Estou utilizando exercícios do LeetCode e vários outros desafios para praticar e aprimorar minhas habilidades.
 
-## LeetCode Exercises
+## Exercícios do LeetCode
 
-I am working through a variety of exercises on LeetCode. These exercises provide a great way to apply algorithmic thinking and to learn more about how to solve problems effectively in Go.
+Estou trabalhando em uma variedade de exercícios no LeetCode. Esses exercícios oferecem uma ótima maneira de aplicar o pensamento algorítmico e aprender mais sobre como resolver problemas de forma eficaz em Go.
 
-## Challenges
+## Desafios
 
-In addition to LeetCode, I am also tackling various algorithmic challenges. These challenges come from a variety of sources and cover a wide range of topics related to algorithms and data structures.
+Além do LeetCode, estou também enfrentando diversos desafios algorítmicos. Esses desafios vêm de várias fontes e abrangem uma ampla gama de tópicos relacionados a algoritmos e estruturas de dados.
 
-## Learning Journey
+## Jornada de Aprendizado
 
-This repository represents my learning journey. As I continue to learn and grow, I will update this repository with my solutions and thoughts.
+Este repositório representa minha jornada de aprendizado. Conforme continuo aprendendo e evoluindo, atualizarei este repositório com minhas soluções e reflexões.
 
-Thank you for visiting my repository!
-
+Obrigado por visitar o meu repositório!
